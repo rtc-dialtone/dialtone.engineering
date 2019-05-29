@@ -1,4 +1,7 @@
-# Introductions
+---
+layout: post
+title: Introductions
+---
 
 Hi 👋 - This is neat, we've got a great web presence starting to grow here. 🌲
 
